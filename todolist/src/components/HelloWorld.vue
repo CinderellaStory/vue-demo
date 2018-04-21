@@ -88,6 +88,7 @@
 </template>
 
 <script>
+import Store from '../store'
 export default {
   name: 'HelloWorld',
   data () {
@@ -102,23 +103,21 @@ export default {
         sex:''
       },
       // 定义表格默认数据
-      items:[
-        {
-          name:"Anne",age:"20",sex:"女"
-        },
-        {
-          name:"Anna",age:"18",sex:"女"
-        },
-        {
-          name:"Make",age:"32",sex:"男"
-        }
-      ],
+      items: Store.fetch(),
       // 定义弹窗初始值
       ModalData:{
         name:'',
         age:'',
         sex:'',
       }
+    }
+  },
+  watch:{
+    items:{
+      handler:function(items){
+        Store.save(items)
+      },
+      deep:true
     }
   },
   methods:{
@@ -129,12 +128,12 @@ export default {
           this.isMessage = true;
           setTimeout(()=>{
           this.isMessage = false;
-        },3000)
+        },1000)
           return
       }
       else{
-      this.items.push(this.ModalData);
-      this.ModalData = {
+      this.items.push(this.FormData);
+      this.FormData = {
         name:"",
         age:"",
         sex:""
@@ -177,7 +176,7 @@ export default {
         sex:""
       }
     }
-  },
+  }
 }
 </script>
 
