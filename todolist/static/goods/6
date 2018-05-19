@@ -1,0 +1,19 @@
+{
+  "id":6,
+  "title":"荣耀10 AI摄影手机 6GB+64GB 幻影蓝 全网通 双卡双待 高配版",
+  "price":2899,
+  "sale_price":2599,
+  "size":["64GB","128GB","256GB"],
+  "color":["幻影紫","幻影蓝"],
+  "number":1,
+  "img":"https://res.vmallres.com/pimages//product/6901443232413/800_800_1523952379540mp.jpg",
+  "images":{
+    "one":"https://res.vmallres.com/pimages//product/6901443232413/78_78_1523952379540mp.jpg",
+    "two":"https://res.vmallres.com/pimages//product/6901443232413/group//78_78_1523952372777.jpg",
+    "three":"https://res.vmallres.com/pimages//product/6901443232413/group//78_78_1523952373523.jpg",
+    "four":"https://res.vmallres.com/pimages//product/6901443232413/group//78_78_1523952374341.jpg",
+    "five":"https://res.vmallres.com/pimages//product/6901443232413/group//78_78_1523952374779.jpg"
+  },
+  "stock":182,
+  "container":"<p><img style='width:100%;display: block;' src='https://res.vmallres.com/pimages/detailImg/2018/04/18/201804180915314487523.jpg'/><img style='width:100%;display: block;' src='https://res.vmallres.com/pimages/detailImg/2018/04/18/20180418091531782983.jpg'/><img style='width:100%;display: block;' src='https://res.vmallres.com/pimages/detailImg/2018/04/18/201804180915311057507.jpg'/><img style='width:100%;display: block;' src='https://res.vmallres.com/pimages/detailImg/2018/04/18/201804180915324488013.jpg'/><img style='width:100%;display: block;' src='https://res.vmallres.com/pimages/detailImg/2018/04/18/201804180915331222268.jpg'/><img style='width:100%;display: block;' src='https://res.vmallres.com/pimages/detailImg/2018/04/18/201804180915329157685.jpg'/><img style='width:100%;display: block;' src='https://res.vmallres.com/pimages/detailImg/2018/04/18/201804180915337777211.jpg'/><img style='width:100%;display: block;' src='https://res.vmallres.com/pimages/detailImg/2018/04/18/201804180915354814419.jpg'/><img style='width:100%' src='https://res.vmallres.com/pimages/detailImg/2018/04/18/201804180915354814419.jpg'/><img style='width:100%;display: block;' src='https://res.vmallres.com/pimages/detailImg/2018/04/18/201804180915425010208.jpg'/><img style='width:100%;display: block;' src='https://res.vmallres.com/pimages/detailImg/2018/04/18/201804180915354397213.jpg'/></p>"
+}

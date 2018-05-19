@@ -1,5 +1,6 @@
 <template>
-  <div class="container">
+  <div class="container content">
+    <h1>添加用户信息</h1>
     <form action="">
       <div class="list">
         <label>姓名：</label>
@@ -54,7 +55,7 @@
         </td>
       </tr>
     </table>
-    
+
     <div class="message" v-show="isMessage">
         <div class="bg">
           <p>输入内容不能为空</p>
@@ -89,13 +90,13 @@
 
 <script>
 import Store from '../store'
+
 export default {
   name: 'HelloWorld',
   data () {
     return {
       isShow:false,
       isMessage:false,
-      checked: false,
       // 定义表单初始值为空
       FormData:{
         name:'',
@@ -211,8 +212,6 @@ export default {
   font-size:14px;
   @ct:center;
   @br:1px solid #333399;
-  margin: 60px auto;
-  width: 800px;
   .list{
     margin-bottom:30px;
     label{
@@ -231,7 +230,7 @@ export default {
     margin:50px 0 20px;
   }
   table{
-    border-collapse:collapse; 
+    border-collapse:collapse;
     text-aligh:@ct;
     margin-bottom:20px;
     tr{

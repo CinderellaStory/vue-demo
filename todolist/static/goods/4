@@ -1,0 +1,19 @@
+{
+  "id":4,
+  "title":"Apple/苹果 iPhone 8",
+  "price":5888,
+  "sale_price":7188,
+  "size":["64GB","128GB","256GB"],
+  "color":["银色","红色"],
+  "number":1,
+  "img":"https://img.alicdn.com/imgextra/i1/1917047079/TB1OShBlpmWBuNjSspdXXbugXXa_!!2-item_pic.png_430x430q90.jpg",
+  "images":{
+    "one":"https://img.alicdn.com//img.alicdn.com/imgextra/i1/1917047079/TB1OShBlpmWBuNjSspdXXbugXXa_!!2-item_pic.png_60x60q90.jpg",
+    "two":"https://img.alicdn.com//img.alicdn.com/imgextra/i1/1917047079/TB1Xr9kf6oIL1JjSZFyXXbFBpXa_!!2-item_pic.png_60x60q90.jpg",
+    "three":"https://img.alicdn.com//img.alicdn.com/imgextra/i4/1917047079/TB2BiVXgeALL1JjSZFjXXasqXXa_!!1917047079.png_60x60q90.jpg",
+    "four":"https://img.alicdn.com//img.alicdn.com/imgextra/i4/1917047079/TB24SDEdBUSMeJjSszcXXbnwVXa_!!1917047079.png_60x60q90.jpg",
+    "five":"https://img.alicdn.com//img.alicdn.com/imgextra/i3/1917047079/TB2pct6f1EJL1JjSZFGXXa6OXXa_!!1917047079.png_60x60q90.jpg"
+  },
+  "stock":178,
+  "container":"<p><img style='width:80%' src='https://store.storeimages.cdn-apple.com/8750/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/compare/iphone-compare-201709?wid=1194&hei=576&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1505321140780'><img style='width:80%' src='https://store.storeimages.cdn-apple.com/8750/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone8/gallery0/iphone8-gallery0-2018_GEO_CN?wid=4000&hei=3072&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1520640877367'><img style='width:80%' src='https://img.alicdn.com/imgextra/i1/1917047079/TB1Xr9kf6oIL1JjSZFyXXbFBpXa_!!2-item_pic.png_430x430q90.jpg'><img style='width:80%' src='//img.alicdn.com/imgextra/i2/1917047079/TB2fJ1sf7.HL1JjSZFuXXX8dXXa_!!1917047079.png_430x430q90.jpg'></p>"
+}

@@ -1,0 +1,62 @@
+{
+	"news":[
+			{
+				"pic":"https://img.alicdn.com/imgextra/i4/1883687207/TB2KaDam21TBuNjy0FjXXajyXXa_!!1883687207-0-item_pic.jpg_430x430q90.jpg",
+				"price":148,
+				"title":"韩语琳空间性感小吊带裙子2018夏季新款女装荷叶边短裙蕾丝连衣裙",
+				"id":1
+			},
+			{
+				"pic":"https://img.alicdn.com/imgextra/TB1aEFqcyMnBKNjSZFoL6TOSFXa_430x430q90.jpg",
+				"price":188,
+				"title":"ONE MORE2018夏装新款刺绣连衣裙女挂脖超仙甜美雪纺连衣裙露肩",
+				"id":2
+			},
+			{
+				"pic":"https://img.alicdn.com/imgextra/i2/1883687207/TB2qEO1h7CWBuNjy0FaXXXUlXXa_!!1883687207-0-item_pic.jpg_430x430q90.jpg",
+				"price":199,
+				"title":"韩语琳空间超仙连衣裙夏季2018新款女装性感一字肩流苏短袖两件套",
+				"id":3
+			}
+		],
+	"hots":[
+		{
+			"pic":"https://img.alicdn.com/imgextra/i1/1917047079/TB1OShBlpmWBuNjSspdXXbugXXa_!!2-item_pic.png_430x430q90.jpg",
+			"price":5888,
+			"title":"Apple/苹果 iPhone 8",
+			"id":4
+		},
+		{
+			"pic":"https://img.alicdn.com/imgextra/i2/268451883/TB2oMCfd7fb_uJkHFNRXXc3vpXa_!!268451883.jpg_430x430q90.jpg",
+			"price":1999,
+			"title":"SMARTISAN/锤子 坚果 Pro 2 全面屏手机pro2 正品",
+			"id":5
+		},
+		{
+			"pic":"https://res.vmallres.com/pimages//product/6901443232413/800_800_1523952379540mp.jpg",
+			"price":2599,
+			"title":"荣耀10 AI摄影手机 6GB+64GB 幻影蓝 全网通 双卡双待 高配版",
+			"id":6
+		}
+	],
+	"digital":[
+		{
+			"pic":"https://img.alicdn.com/imgextra/i1/1917047079/TB187GIf4uaVKJjSZFjXXcjmpXa_!!0-item_pic.jpg_430x430q90.jpg",
+			"price":2588,
+			"title":"Apple/苹果 金色铝金属表壳搭配粉砂色运动型表带",
+			"id":7
+		},
+		{
+			"pic":"https://img.alicdn.com/imgextra/i1/2303145725/TB2HGIXdiCYBuNkSnaVXXcMsVXa_!!2303145725.jpg_430x430q90.jpg",
+			"price":1999,
+			"title":"巴巴腾智能机器人玩具语音对话早教机儿童学习高科技帅小胖七教育",
+			"id":8
+		},
+		{
+			"pic":"https://img.alicdn.com/imgextra/i1/2455366009/TB2thslaBUSMeJjSspfXXX0VFXa_!!2455366009.jpg_430x430q90.jpg",
+			"price":129,
+			"title":"vr一体机虚拟现实3d眼镜手机专用rv头戴式游戏机苹果ar华为4d眼睛",
+			"id":9
+		}
+	]
+}

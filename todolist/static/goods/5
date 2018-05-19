@@ -1,0 +1,19 @@
+{
+  "id":5,
+  "title":"SMARTISAN/锤子 坚果 Pro 2 全面屏手机pro2 正品",
+  "price":3299,
+  "sale_price":1799,
+  "size":["32GB","64GB","128GB"],
+  "color":["酒红色","黑色"],
+  "number":1,
+  "img":"https://img.alicdn.com/imgextra/i2/268451883/TB2oMCfd7fb_uJkHFNRXXc3vpXa_!!268451883.jpg_430x430q90.jpg",
+  "images":{
+    "one":"https://img.alicdn.com//img.alicdn.com/imgextra/i3/TB1R0TNaXTM8KJjSZFApI5exXXa_125121.jpg_60x60q90.jpg",
+    "two":"https://img.alicdn.com//img.alicdn.com/imgextra/i1/TB19qbHXzgy_uJjSZKzbSH_jXXa_125624.jpg_60x60q90.jpg",
+    "three":"https://img.alicdn.com//img.alicdn.com/imgextra/i1/TB1n9poXkSWBuNjSszdLcjeSpXa_053059.jpg_60x60q90.jpg",
+    "four":"https://img.alicdn.com//img.alicdn.com/imgextra/i6/TB1TWtVbL2H8KJjy0FcPDKDlFXa_125243.jpg_60x60q90.jpg",
+    "five":"https://img.alicdn.com/imgextra/i2/268451883/TB2oMCfd7fb_uJkHFNRXXc3vpXa_!!268451883.jpg_60x60q90.jpg"
+  },
+  "stock":100,
+  "container":"<p><img src='https://img.alicdn.com/imgextra/i3/268451883/TB2N5J0bpTM8KJjSZFlXXaO8FXa_!!268451883.jpg'/><img src='https://img.alicdn.com/imgextra/i3/268451883/TB2HL.aeRDH8KJjSspnXXbNAVXa_!!268451883.jpg'/><img src='https://img.alicdn.com/imgextra/i1/268451883/TB2kNC_fgnH8KJjSspcXXb3QFXa_!!268451883.jpg'/><img src='https://img.alicdn.com/imgextra/i2/268451883/TB2B9_mfnvI8KJjSspjXXcgjXXa_!!268451883.jpg'/><img src='https://img.alicdn.com/imgextra/i2/268451883/TB2B5W9fm_I8KJjy0FoXXaFnVXa_!!268451883.jpg'/></p>"
+}
